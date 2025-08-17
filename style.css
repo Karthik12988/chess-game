@@ -38,7 +38,7 @@ body {
     border-radius: 10px;
 }
 .white-pieces {
-    background-color: rgb(215, 229, 196);
+    background-color: #eeeed2;
     width: 92%;
     display: flex;
     flex-direction: row;
